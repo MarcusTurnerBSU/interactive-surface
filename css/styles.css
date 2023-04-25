@@ -1,0 +1,13 @@
+body {
+    background-color: lightgrey;
+}
+
+#my-canvas {
+    background-color: dimgrey;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 100%;
+    max-height: 100%;   
+}
